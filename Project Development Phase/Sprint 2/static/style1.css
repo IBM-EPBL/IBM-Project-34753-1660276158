@@ -1,0 +1,22 @@
+body{
+    background-image: url(background1.jpg);
+    background-size: cover;
+    color: azure;
+}
+.login{
+    margin-top: 10%;
+    text-align: center;
+}
+.register{
+    margin-top: 10%;
+    text-align: center;
+}
+.logreg{
+    margin-top: 10%;
+    text-align: center;
+
+}
+#msg2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aqua;
+}
